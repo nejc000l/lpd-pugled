@@ -1,0 +1,28 @@
+.container2{
+    display:grid;
+    height:auto;
+    width:100%;
+    color:white;
+    grid-template-rows:1fr;
+    grid-template-columns: 30% 70%;
+    }
+
+.container-right{
+    
+   /*display: grid;
+    grid-template-columns: 32% 59%;
+
+    background: rgb(0 0 0 / 38%);
+    */
+}
+
+.titles{
+    text-align:center;
+}
+.nav{
+    text-align: center;
+}
+.data_box{
+text-align: justify;
+background:rgba(0, 0, 0, 0.904);
+}
