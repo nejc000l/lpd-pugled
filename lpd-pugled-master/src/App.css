@@ -9,8 +9,8 @@
     /* Used if the image is unavailable */
     height: auto; /* You must set a specified height */
     background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
+    background-repeat: repeat; /* Repeat the image evenly */
+    background-size: auto; /* Use original image size */
     opacity: 0.95;
     border:1px solid red;
   
